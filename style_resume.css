@@ -1,0 +1,40 @@
+body{
+    color:black;
+    background-color: lightgoldenrodyellow;
+    font-family: "Segoe UI";
+    margin:0;
+    padding:0;
+}
+
+.container{
+    margin:60px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding:30px;
+    background-color: white;
+    color:black;
+}
+
+header{
+    text-align:center;
+    color:darkgreen;
+}
+
+h1{
+    font-size:2.5rem;
+}
+
+h2{
+    color:darkgreen;
+}
+
+ul{
+    line-height: 2.1;
+}
+
+ol{
+    line-height: 2.1;
+}
+
+.info{
+    background-color: lightgoldenrodyellow;
+}
